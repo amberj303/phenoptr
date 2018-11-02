@@ -3,6 +3,15 @@
 [![Travis-CI Build Status](https://travis-ci.org/PerkinElmer/phenoptr.svg?branch=master)](https://travis-ci.org/PerkinElmer/phenoptr)
 [![Coverage Status](https://img.shields.io/codecov/c/github/PerkinElmer/phenoptr/master.svg)](https://codecov.io/github/PerkinElmer/phenoptr?branch=master)
 
+## Important update
+
+**The PerkinElmer Phenoptics team is now part of [Akoya Biosciences](https://www.akoyabio.com/). 
+For the latest version of `phenoptr` please visit https://akoyabio.github.io/phenoptr/.** For information about
+the acquisition, see this 
+[press release](https://www.akoyabio.com/application/files/2115/4102/9247/20181031_Akoya_QPS_acquisition_Final7.pdf).
+
+----
+
 `phenoptr` contains functions that make it easier to read and analyze data tables
 and images created by PerkinElmer's inForm<sup>&reg;</sup> software.
 
